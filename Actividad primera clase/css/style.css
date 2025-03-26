@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(27, 27, 27);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 30px;
+}
+
+h1 {
+    color: rgb(218, 233, 15);
+}
+p{
+    color: rgb(218, 233, 15);
+    
+}
+
+ul{
+    color: rgb(218, 233, 15);
+    
+    
+}
+
+.padre{
+    height: 100px;
+    width: 590px;
+    text-align: center;
+    margin-left: 300px;
+}
+a{
+    text-decoration: none;
+    color:rgb(218, 233, 15) ;
+}
+
+img{
+    height: 250px;
+    width: 380px;
+}
